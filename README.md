@@ -1,5 +1,5 @@
 # TugasMachineLearning
-Jika code tidak bisa dilihat, klik link google colab dibawah ini
+Jika code tidak bisa dilihat, klik link google colab dibawah ini <br>
 Week 1
 https://colab.research.google.com/drive/1RgNOOv33qjcrYsW23amWlfpOGCyOkZWg <br>
 Week 2
